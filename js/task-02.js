@@ -16,3 +16,4 @@ const arrayOfItems = ingredients.map(ingredient => {
 });
 ulIngredients.append(...arrayOfItems);
 console.log(ingredients);
+console.log(ulIngredients);
